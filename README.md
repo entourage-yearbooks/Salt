@@ -1,4 +1,4 @@
-Test
+Salt
 ====
 
-Test For GitHub Web Hook
+Repository that stores Salt configurations for Entourage Yearbooks. 
